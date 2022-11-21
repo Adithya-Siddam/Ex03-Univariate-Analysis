@@ -81,22 +81,26 @@ sns.histplot(x='Postal Code',data=df)
 ![image](https://user-images.githubusercontent.com/93427248/203041070-f963bb21-8768-4c1d-90da-fe0f5c6388ce.png)
 
 # DATA'S VALUECOUNT
+![image](https://user-images.githubusercontent.com/93427248/203041773-c8c71414-ba78-4b7f-87e8-3cc5229f248e.png)
 
-![image](https://user-images.githubusercontent.com/93427248/203041100-390742d8-5c0f-4740-80ab-f55d6f8927f4.png)
+
 
 # BOXPLOT
+![image](https://user-images.githubusercontent.com/93427248/203041100-390742d8-5c0f-4740-80ab-f55d6f8927f4.png)
 
-![image](https://user-images.githubusercontent.com/93427248/203041136-6ca60951-fd86-42d3-8c7f-19bb5018473a.png)
+
 
 # COUNTPLOT
-![image](https://user-images.githubusercontent.com/93427248/203041162-19362d65-9774-46d5-aa78-a1c1a2b53df2.png)
+![image](https://user-images.githubusercontent.com/93427248/203041136-6ca60951-fd86-42d3-8c7f-19bb5018473a.png)
+
 
 # DISTRIBUTION PLOT
+![image](https://user-images.githubusercontent.com/93427248/203041162-19362d65-9774-46d5-aa78-a1c1a2b53df2.png)
 
-![image](https://user-images.githubusercontent.com/93427248/203041205-4385c730-b18a-462c-9e50-fbba96f2ce2d.png)
+
 
 # HISTOGRAM PLOT
 
-![image](https://user-images.githubusercontent.com/93427248/203041555-d5c49a2c-2509-42f0-ba75-432909b76836.png)
+![image](https://user-images.githubusercontent.com/93427248/203041205-4385c730-b18a-462c-9e50-fbba96f2ce2d.png)
 # Result
 Thus we have read the given data and performed the univariate analysis with different types of plots.
